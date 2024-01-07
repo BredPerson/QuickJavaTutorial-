@@ -1,0 +1,9 @@
+Solve the files in the following order (they're sorted alphabetically and I don't
+think I can change it)
+
+1. DataTypes.java
+2. Operators.java
+3. IfElse.java
+4. Loops.java
+5. Methods.java
+6. Scope.java
