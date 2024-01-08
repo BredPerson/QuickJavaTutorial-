@@ -29,5 +29,6 @@ public class DataTypes {
     public static void main(String[] args) {
         // now in the main method (the method you can run), create a variable
         // of each basic data type and print it out.
+        
     }
 }
