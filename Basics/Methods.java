@@ -1,3 +1,5 @@
+import java.math.*;
+import java.lang.Math;
 // A method is a collection of code outside of the main method that preform a certain task
 // A method can be called with specific parameters
 // A method looks like this: 
@@ -24,6 +26,18 @@
 public class Methods {
     
     public static void main(String[] args) {
-        System.out.println("test");
+        int x = 3;
+        int y = 4;
+        int z = pythag(x, y);
     }
+
+    // create a method pythag that given the length of two sides of a right triangle (x and y) you return 
+    // the third the third side's length
+    // Hint: you can get the power of a number like this:
+    // Math.pow(<base>, <exponent>);
+    // and you can get the sqrt x`with: 
+    // Math.sqrt(<value>);
+
+
+
 } 
